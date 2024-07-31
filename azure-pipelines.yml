@@ -1,7 +1,7 @@
 trigger:
 - main
 
-pool: Ag-Lenovo-LMDE5
+pool: Default
 
 strategy:
   matrix:
