@@ -5,8 +5,8 @@ pool: Default
 
 strategy:
   matrix:
-    Python310:
-      python.version: '3.9.2'
+    Python39:
+      python.version: '3.9'
 
 steps:
   - task: UsePythonVersion@0
